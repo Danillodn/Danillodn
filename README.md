@@ -10,7 +10,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align= "esquerda">
-<a href="https://www.linkedin.com/in/danillo-dias-nascimento/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="danillo-dias-nascimento/" height="50" width="200" /></a> </p>
+<a href="https://www.linkedin.com/in/danillo-dias-nascimento/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="200" /></a> </p>
 
 
 <h3 align="left">Ferramentas:</h3>
